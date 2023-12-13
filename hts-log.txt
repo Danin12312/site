@@ -1,11 +1,19 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Dec 2023 18:25:03 at https://ranktags.subgplayz.tech/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ranktags.subgplayz.tech/ -O1 "C:\Users\danin\OneDrive\Desktop\New folder (3)\nametags" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Dec 2023 18:30:52 at https://ranktags.subgplayz.tech/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://ranktags.subgplayz.tech/ -O1 "C:\Users\danin\OneDrive\Desktop\New folder (3)\nametags" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
+18:31:07	Warning: 	Permanent Redirect for https://gradio.app/robots.txt
+18:31:07	Warning: 	Redirected link is identical because of 'URL Hack' option: https://gradio.app/robots.txt and https://www.gradio.app/robots.txt
+18:31:07	Warning: 	Warning moved treated for https://gradio.app/robots.txt (real one is https://www.gradio.app/robots.txt)
+18:31:07	Warning: 	Permanent Redirect for https://gradio.app/
+18:31:07	Warning: 	Redirected link is identical because of 'URL Hack' option: https://gradio.app/ and https://www.gradio.app/
+18:31:07	Warning: 	File has moved from https://gradio.app/ to https://www.gradio.app/
+18:31:10	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://ranktags.subgplayz.tech/)
+18:31:11	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://ranktags.subgplayz.tech/)
 
-HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 4 links scanned, 3 files written (92857 bytes overall), 3 files updated [78756 bytes received at 4922 bytes/sec], 25874 bytes transferred using HTTP compression in 2 files, ratio 39%, 1.3 requests per connection
-(No errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 10 links scanned, 3 files written (92857 bytes overall), 2 files updated [13365 bytes received at 703 bytes/sec], 14106 bytes transferred using HTTP compression in 3 files, ratio 41%
+(2 errors, 6 warnings, 0 messages)
