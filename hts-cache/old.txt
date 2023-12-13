@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:23:14	24/24	U-----	200	untouched ('OK')	text/plain	date:Wed,%2013%20Dec%202023%2017:21:30%20GMT	https://ranktags.subgplayz.tech/robots.txt		(from )
+18:23:14	12444/12444	U--MCZ	200	updated ('OK')	text/html	date:Wed,%2013%20Dec%202023%2017:23:14%20GMT	https://ranktags.subgplayz.tech/	C:/Users/danin/OneDrive/Desktop/New%20folder%20(3)/nametags/index-2.html	(from )
